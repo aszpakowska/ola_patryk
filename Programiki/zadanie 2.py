@@ -1,0 +1,1 @@
+print ("W tekście jest {a} liter ... oraz {b} liter ...")

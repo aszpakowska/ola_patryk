@@ -1,0 +1,1 @@
+napis = 'Czym jest Lorem Ipsum?'
