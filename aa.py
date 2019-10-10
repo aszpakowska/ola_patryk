@@ -7,3 +7,4 @@ tekst = "Lorem Ipsum jest tekstem stosowanym jako przykładowy " \
         "zawierających fragmenty Lorem Ipsum, a ostatnio z zawierającym różne wersje" \
         " Lorem Ipsum oprogramowaniem przeznaczonym do realizacji druków na " \
         "komputerach osobistych, jak Aldus PageMaker aaaaaaa"
+print("w tekscie jest:",tekst.count(""),"liter")
