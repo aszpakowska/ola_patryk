@@ -1,0 +1,1 @@
+print("moze tym razem sie uda")
