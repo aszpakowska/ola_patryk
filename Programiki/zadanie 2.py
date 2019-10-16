@@ -1,1 +1,2 @@
-print ("W tekście jest {a} liter ... oraz {b} liter ...")
+
+print ("W tekście jest a liter .kk.. oraz b liter ...")
